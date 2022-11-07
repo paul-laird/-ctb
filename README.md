@@ -25,3 +25,9 @@
 Link	[md cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
 <img width="200" alt="Checkmark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Eo_circle_green_checkmark.svg/2048px-Eo_circle_green_checkmark.svg.png">
+
+##Introduction
+
+##Current IT Setup
+
+##R
