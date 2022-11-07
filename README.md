@@ -20,6 +20,7 @@
 
 `code`
 
+`print("Hello World!")`
 ---
 
 Link	[md cheatsheet](https://www.markdownguide.org/cheat-sheet/)
