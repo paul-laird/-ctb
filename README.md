@@ -33,7 +33,7 @@ Link	[md cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
 ##Recommendations
 
-These are our recommendations:
+Our recommendations are as follows:
 
 ###Mail Server
 
