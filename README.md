@@ -32,10 +32,16 @@ Link	[md cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 ##Current IT Setup
 
 ##Recommendations
+
+
 ###Mail Server
+
 We recommend that the company do X. 
+
 An alternative would be Y. 
+
 Justification is W. 
+
 X is preferable because Z
 
 ###Sub2
