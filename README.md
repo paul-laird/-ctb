@@ -6,6 +6,8 @@
 
 **bold text**
 
+new text
+
 *italicized text*
 
 > blockquote
