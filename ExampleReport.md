@@ -1,4 +1,4 @@
-#Example CA Report-B9MG119 
+# Example CA Report-B9MG119 
 
 Introduction: In this report we will review the current IT set up of Boann Distrillery and recommend a cloud strategy appropriate for a business of this size and scope. Underpinning our analysis and recommendations will be cost, resource allocation, security, and scalability condiderations. 
 
